@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72f5e052-e59f-4355-92e2-34d22907544f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/ip.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WJ0GM3giN58iyaMRARDqJLilWM" />
@@ -79,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578852294012</updated>
       <workItem from="1578852295203" duration="1146000" />
-      <workItem from="1578853624737" duration="334000" />
+      <workItem from="1578853624737" duration="647000" />
     </task>
     <servers />
   </component>
